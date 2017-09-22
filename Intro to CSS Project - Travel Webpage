@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            body{
+                background-color: rgb(189, 247, 255);
+            }
+            h1{
+                color:rgb(255, 0, 179);
+            }
+            p{
+                color:rgb(0, 9, 255);
+            }
+            #reasons-why-list{
+                color: rgb(255, 0, 0);
+            }
+            .must-do-list{
+                color: rgb(76, 199, 0);
+                background-color: rgb(255, 210, 150);
+            }
+            h4{
+                color:rgb(255, 0, 179);
+                background-color: rgb(255, 242, 127);
+            }
+        </style>
+    </head>
+    <body>
+    
+    <h1>Travel to St. John's Newfoundland!</h1>
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/St._John%27s%2C_Newfoundland_and_Labrador%2C_Canada.jpg/800px-St._John%27s%2C_Newfoundland_and_Labrador%2C_Canada.jpg" alt= "St. John's harbour." width = "297">
+    
+    <p>
+        St. John's, the capital of Newfoundland, is the <em>perfect</em> destination for your next vacation. Whether travelling with your family, friends, or exploring by yourself, St. John's has <strong>endless treasures</strong> to explore and is filled with a <strong>vibrant culture</strong>.
+        <br>
+        <br>
+        Still not convinced? Here are some of the numerous reasons why St. John's is an amazing travel destination:
+    </p>
+        
+    <ul id="reasons-why-list">
+        <li> The scenery is breathtaking due to the colourful jellybean homes, ocean views and mountains</li>
+        <li> It is filled with rich history and traditions</li>
+        <li> There are various types of activities for you to do during your stay</li>
+        <li> You can go and find loads of things to do all year round, regardless of the season</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/PilotsHillroad.jpg" alt= "Colourful jelly bean houses" width="188">
+
+    <h3 class = "must-do-list">
+        Must do's:
+    </h3>
+    
+    <ol class = "must-do-list">
+        <li> Go to Signal Hill </li>
+        <li> Visit the Cape Spear Lighthouse</li>
+        <li> Eat the famous Fish n' Chips at Ches's</li>
+        <li> Go on a boat tour to whale watch and see some puffins</li>
+        <li> See the enormous icebergs</li>
+        <li> Get screeched in</li>
+    </ol>
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Papageitaucher_Fratercula_arctica.jpg" alt= "Puffin sitting on a cliff edge" width="200">
+    
+    <p>
+        Hopefully, it is now clear to you where you'll be heading next. St. John's is a beautiful city with great people, food, and sceney that will make your dream vacation a reality. 
+    </p>
+    
+    <h4>
+        <strong> What are you waiting for? Plan your trip now!
+            
+        </strong>
+    </h4>
+    </body>
+</html>
