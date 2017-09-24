@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        #french-toast{
+            color:rgb(255, 170, 0);
+        }
+        .ft{
+            background-color:rgb(255, 246, 161);
+        }
+        #pizza{
+            color:rgb(3, 58, 255);
+        }
+        .pza{
+            background-color:rgb(166, 231, 240);
+        }
+        #choc-chip{
+            color:rgb(99, 11, 115);
+        }
+        .cookies{
+            background-color: rgb(242, 177, 242);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Sydney's Recipe Book</h1>
+        
+        <!-- TABLE OF CONTENTS--->
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li> <a href="#french-toast">French toast</a></li>
+            <li> <a href="#pizza">Pepperoni Pizza</a></li>
+            <li> <a href="#choc-chip"> Chocolate Chip Cookies</a></li>
+        </ol>
+        
+        <!-- FRENCH TOAST RECIPE--->
+        
+        <h2 id="french-toast" class="ft">French Toast</h2>
+        
+        <img class="ft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/French_Toast_%2816251867289%29.jpg/1200px-French_Toast_%2816251867289%29.jpg" alt=" French toast with rasberries" width="150">
+        
+        <p class="ft">
+            This meal can be served for breakfast or brunch and is very filling to get you started for the day.
+        </p>
+        
+        <ul class="ft">
+            <li>Time: 30 min</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table class="ft">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>Large eggs</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>Vanilla</td>
+                    <td>2 tbsp</td>
+                </tr>
+                <tr>
+                    <td>Nutmeg</td>
+                    <td>1 pinch</td>
+                </tr>
+                <tr>
+                    <td>Bread</td>
+                    <td>6 slices</td>
+                </tr>
+                <tr>
+                    <td>Vegetable oil</td>
+                    <td>4 tbsp</td>
+                </tr>
+                <tr>
+                    <td>milk</td>
+                    <td>1 1/2 cups</td>
+                </tr>
+                <tr>
+                    <td>Cinnamon</td>
+                    <td>1/2 tsp</td>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>4 tbsp</td>
+                </tr>
+                <tr>
+                    <td>Maple Syrup</td>
+                    <td>For serving</td>
+                </tr>
+
+            </thead>
+        </table>
+        
+        <ol class="ft">
+            <li> Whisk your eggs, milk, vanilla, cinnamon, and nutmeg in a medium bowl.</li>
+            <li> Put your bread slices in a shallow dish so that they are in a single layer (not piled up). Pour the egg mixture over the bread and allow it to soak fo 10 minutes. Turn slices over and repeat (about 10 minutes more). </li> 
+            <li> Heat 2 tablespoons butter and 2 tablespoons vegetable oil in a skillet over medium heat. Fry half the bread slices until golden brown, 2 to 3 minutes per side.</li>
+        </ol>
+
+    <p class="ft">
+        <strong>Try serving with fresh berries and cream.</strong>
+    </p>
+        
+    <p class="ft"><em>Source: <a href="http://www.marthastewart.com/333918/classic-french-toast">Martha Stewart's Classic French Toast</a></em></p>
+    
+    </body>
+</html>
+
+        <!--PEPPERONI PIZZA RECIPE--->
+
+        <h2 id="pizza" class="pza"> Pizza</h2>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg" alt= "A cheesy pizza" width="150">
+            
+            <p class="pza">
+                A delicious italian meal that is great to share with friends or family!
+            </p>
+            
+            <ul class="pza">
+                <li>Time: 20 min</li>
+                <li> Serves: 6</li>
+            </ul>
+            
+            <table class="pza">
+                <thead>
+                    <tr>
+                        <th><strong>Ingredients</strong></th>
+                        <th><strong>Quantities</strong></th>
+                    </tr>
+                    <tr>
+                        <td>Naan</td>
+                        <td>1 package</td>
+                    </tr>
+                    <tr>
+                        <td>Tomato sauce</td>
+                        <td>1 can</td>
+                    </tr>
+                    <tr>
+                        <td>Mozzarella</td>
+                        <td>1 brick</td>
+                    </tr>
+                    <tr>
+                        <td>Pepperoni</td>
+                        <td>1 stick</td>
+                    </tr>
+                </thead>
+            </table>
+            
+            <ol class="pza">
+                <li> Preheat your oven to 350 degrees</li>
+                <li> Put your naan bread on a cookie sheet.</li>
+                <li> Using a spoon, spread the tomato sauce onto the naan bread.</li>
+                <li> Grate your cheese and sprinkle over the pizza.</li>
+                <li> Slice up your pepperoni stick and place on top of the pizza</li>
+                <li> Put your pizzas in the oven for 5 minutes or until cheese starts to bubble.</li>
+                
+            </ol>
+            
+            <p class="pza">
+            <strong>Serve warm and enjoy!</strong>
+            </p>
+        
+        <!--Chocolate Chip Cookie RECIPE--->
+        
+        <h2 id="choc-chip" class="cookies">
+            Cookies
+        </h2>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Chocolate_Chip_Cookies_-_kimberlykv.jpg" alt="Chocolate chip cookies on a cooling rack" width="150">
+        
+        <p class="cookies">
+            A great simple desert to fix your sweet tooth
+        </p>
+        
+        <ul class="cookies">
+            <li>Time: 40 min</li>
+            <li> Makes: 40 cookies</li>
+        </ul>
+        
+        <table class="cookies">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantities</th>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>1 cup</td>
+                </tr>
+                <tr>
+                    <td>Egg</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>Brown sugar</td>
+                    <td>2/3 cups</td>
+                </tr>
+                <tr>
+                    <td>White sugar</td>
+                    <td>2/3 cups</td>
+                </tr>
+                <tr>
+                    <td>Vanilla</td>
+                    <td>1 tsp</td>
+                </tr>
+                <tr>
+                    <td>Flour</td>
+                    <td>2 cup</td>
+                </tr>
+                <tr>
+                    <td>Baking soda</td>
+                    <td>1/2 tsp</td>
+                </tr>
+                <tr>
+                    <td>Chocolate chips</td>
+                    <td>1 cup</td>
+                </tr>
+            </thead>
+        </table>
+        
+        <ol class="cookies">
+            <li>Preheat oven to 365 degrees</li>
+            <li>Blend butter, white sugar and brown sugar until smooth.</li>
+            <li>Add the egg and vanilla.</li>
+            <li>Mix in the flour and baking soda.</li>
+            <li>Mix in the chocolate chips.</li>
+            <li>Grease a baking sheet</li>
+            <li>Using a spoon, create balls of a width of 1 inch. Place 15 cookies per pan</li>
+            <li>Cook the cookies for 8 minutes. Allow to cool for 5 minutes before serving.</li>
+        </ol>
+        
+        <p class="cookies">
+        <strong>Goes great with a glass of milk.
+        </strong>
+        </p>
