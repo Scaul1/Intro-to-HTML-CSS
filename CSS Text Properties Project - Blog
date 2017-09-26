@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            h1{
+                color:rgb(247, 10, 45);
+            }
+            body{
+                background-color:rgb(86, 232, 93);
+            }
+            h2{
+                color:rgb(247, 13, 13);
+            }
+            .fp{
+                font-family: serif;
+            }
+            .food{
+                font-family:sans-serif;
+            }
+            .d{
+                font-family:cursive;
+            }
+            .t{
+                font-family:fantasy;
+            }
+            h6{
+                font-weight:bold;
+                font-size:0.8em;
+            }
+            .list{
+                font-style: italic;
+            }
+        </style>
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        
+        <h1>Sydney's Christmas blog</h1>
+
+        <!-- TABLE OF CONTENTS--->
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#first-post">Introduction!</a></li>
+            <li><a href="#baking">Baking</a></li>
+            <li><a href="#diy">DIY</a></li>
+            <li><a href="#tree">Oh Christmas Tree</a></li>
+        </ul>
+        
+        <!-- POST ONE--->
+        <h2 id="first-post" class="fp">Introduction</h2>
+        
+        <h6 class="fp">Posted on December 1st, 2016</h6>
+        
+        <p class="fp">Hey everyone! On this blog I will be posting updates on what I am doing to prepare for the holidays. I can't wait to share what I'll be doing with you:)</p>
+        
+        <img src="https://www.kasandbox.org/programming-images/seasonal/xmas-tree-with-presents.png" alt="Decorated Christmas Tree" width="150">
+        
+        <!-- POST TWO--->
+         <h2 id="baking" class="food">Holiday Treats</h2>
+        
+        <h6 class="food"> Posted on December 6th, 2016</h6>
+        
+        <p class="food">One of my absolute favourite parts of Christmas are the sweets. There are so many amazing deserts you can make! Here is a list of some <em>delicious</em> homemade holiday treats that I would recommend:</p>
+        
+        <ul class="list">
+            <li><a href="http://allrecipes.com/recipe/10269/shortbread-cookies-ii/?internalSource=hn_carousel%2001_Shortbread%20Cookies&referringId=855&referringContentType=recipe%20hub&referringPosition=carousel%2001">Shortbread cookies</a></li>
+            <li><a href="https://www.ricardocuisine.com/en/recipes/855-berry-christmas-trifle-">Trifle</a></li>
+            <li><a href="http://www.thecomfortofcooking.com/2012/01/peppermint-candy-cane-brownies.html"> Candy cane brownies</a></li>
+        </ul>
+        
+        <p class="food"> This week I decided to make different cookies such as gingerbread! Here's a look at how they turned out: </p>
+        
+        <img src="https://www.kasandbox.org/programming-images/seasonal/xmas-cookies.png" alt="assortment of christmas cookies" width="150">
+
+        <!-- POST THREE--->
+        <h2 id="diy" class="d">Do It Yourself</h2>
+        
+        <h6 class="d">Posted on December 12th, 2016</h6>
+        
+        <p class="d">This Christmas I wanted to try and create my own decorations instead of buying them from stores. I made a variety of decorations from scratch, such as a candy cane wreath and Santa Clause cutlery holders.<br>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Candy-Cane-Classic_thumbnail.png" alt="A candy cane." width="60">
+        You can check out these and other DIY crafts <a href="http://www.woohome.com/diy-2/top-36-simple-and-affordable-diy-christmas-decorations">here!</a></p>
+        
+        <!-- POST FOUR--->
+        <h2 id="tree" class="t">Oh Christmas Tree</h2>
+        
+        <h6 class="t">Posted on December 18th, 2016</h6>
+        
+        <p class="t">Christmas would not be the same without a christmas tree. After having decorated my tree I have come up with steps so that you get your tree looking as <strong>amazing</strong> as possible.</p>
+        
+        <ol class="list">
+            <li>Set up your tree on the stand and add the skirt. Then separate the branches as best as possible</li>
+            <li>Add on the lights starting from the top.</li>
+            <li>Put your ornaments on branches, trying to spread them equally around the tree</li>
+            <li>Last but not least, add the tinsel</li>
+        </ol>
+        
+        <img src="https://www.kasandbox.org/programming-images/seasonal/xmas-ornament-on-tree.png" alt="Ornament on a christmas tree." width="80">
+    </body>
+</html>
