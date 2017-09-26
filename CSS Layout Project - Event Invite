@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body{
+                background-color:rgb(255, 255, 255);
+            }
+            h1{
+                color:rgb(0, 140, 156);
+                font-family: "Georgia";
+                font-style:italic;
+                text-align:center;
+                
+            }
+            .info{
+                font-family:"Times New Roman";
+                font-size:22px;
+                text-align:center;
+            }
+            #names{
+                color:rgb(17, 70, 79);
+                font-weight:bold;
+            }
+            #flower1{
+                float:left;
+                width:65px;
+            }
+            #flower2{
+                float:right;
+                width:65px;
+            }
+            #invite{
+                color:rgb(74, 161, 171);
+            }
+            #special{
+                color:rgb(232, 197, 232); 
+            }
+            #list{
+                color:rgb(74, 161, 171);
+                position:relative;
+                left:46px;
+            }
+            #par{
+                color:black;
+                position:relative;
+                left:59px;
+                font-size:1.2em;
+                z-index:2;
+            }
+            #container{
+                width:300px;
+                margin:auto;
+                border: 8px solid rgb(0, 105, 107);
+                padding:10px;
+                background-color:rgb(214, 252, 248);
+            }
+            #heart{
+                width:59px;
+                position:absolute;
+                left:302px;
+                top:329px;
+                z-index:1;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div id="container">
+        <h1>Save The Date</h1>
+        <img id="flower1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Redoute_flowers01.jpg/220px-Redoute_flowers01.jpg" alt="Flower bouquet.">
+        <img id="flower2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Redoute_flowers01.jpg/220px-Redoute_flowers01.jpg" alt="Flower bouquet.">
+        <h2 id="names" class="info">Caulfeild<br> &<br> Bieber</h2>
+        <h2 id="invite" class="info">Invite you to join them<br> on their <span id="special">special</span> day</h2>
+        <div id="list"><ul>
+            <li>June 18th, 2018</li>
+            <li>4 o'clock</li>
+            <li>Grand Lucayan, Bahamas</li>
+        </ul></div>
+        <p id="par">We hope to see you there!</p>
+        <img id="heart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Emoji_u1f495.svg/1024px-Emoji_u1f495.svg.png" alt="Pink heart.">
+        </div>
+    </body>
+</html>
