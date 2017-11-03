@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip in Greece</h1>
+        
+        <p>I would see scenes like the Mamma Mia movie scene because that's where they filmed.</p>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-at-dusk.png" alt= "A beautiful beach with ocean waves" width="200">
+        
+        <p>And animals like exotic birds!</p>
+        <img src= "https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png" alt="Two colourful birds sitting on a tree" width= "150">
+        
+        <p>And eat lots of seafood</p>
+        <img src= "https://www.kasandbox.org/programming-images/food/oysters.png" alt= "Delicious oysters on a plate" width= "158">
+        
+    </body>
+</html>
