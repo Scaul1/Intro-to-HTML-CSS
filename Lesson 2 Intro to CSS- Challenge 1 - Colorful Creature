@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+            body {
+                background-color: rgb(254, 255, 194);
+            }
+            h1{
+                color: rgb(204, 16, 204);
+            }
+            p {
+                color: rgb(3, 40, 252);
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        
+        <img src="https://www.kasandbox.org/programming-images/animals/horse.png" alt="Horse galloping through a field" width="150">
+        
+        <p>The horse is <em>awesome</em>  because <strong>it is beautiful and makes cool neighs</strong>.</p>
+        
+    </body>
+</html>
