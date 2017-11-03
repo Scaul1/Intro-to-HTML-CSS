@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links you love</title>
+    </head>
+    <body>
+        
+        <h1>Links I love</h1>
+        
+        <p>Check out my Favorite websites!</p>
+        
+        <ul>
+            <li><a target="_blank" href="http://dogtime.com/dog-breeds">About Dogs Breeds</a></li>
+            <li><a target="_blank" href="https://www.peta.org/action/save-help-turtles-cross-road-safely/">Helping Turtles</a></li>
+            <li><a target="_blank" href="https://www.seewinter.com/">About Dolphins</a></li>
+        </ul>
+        
+        <a target="_blank" href="http://www.beyondthebatter.com/">
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+        </a>
+    </body>
+</html>
